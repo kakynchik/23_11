@@ -16,6 +16,18 @@ namespace _23_11
             
             Task4dz task4dz = new Task4dz();
             task4dz.Execute();
+            
+            Task1Pr task1Pr = new Task1Pr();
+            task1Pr.Execute();
+            
+            Task2Pr task2Pr = new Task2Pr();
+            task2Pr.Execute();
+            
+            Task3Pr task3Pr = new Task3Pr();
+            task3Pr.Execute();
+            
+            Task4Pr task4Pr = new Task4Pr();
+            task4Pr.Execute();
         }
     }
 }
